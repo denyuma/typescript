@@ -1,6 +1,9 @@
 {
   "name": "typescript",
   "version": "1.0.0",
+  "scripts": {
+    "watch": "tsc -w"
+  },
   "main": "index.js",
   "license": "MIT"
 }
